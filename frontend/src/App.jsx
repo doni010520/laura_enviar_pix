@@ -79,8 +79,8 @@ function App() {
     <div className="app">
       <div className="container">
         <div className="card">
-          <h1>Cadastro de Chave PIX</h1>
-          <p className="subtitle">Conecte-se conosco através do PIX</p>
+          <h1>Evniar Chave PIX</h1>
+          <p className="subtitle">Enviar chave PIX para o cliente</p>
 
           <form onSubmit={handleSubmit}>
             <div className="form-group">
